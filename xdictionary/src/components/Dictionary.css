@@ -1,0 +1,34 @@
+.xdictionary-container {
+  
+    text-align: center;
+    margin: 50px auto;
+    width: 50%;
+    font-family: Arial, sans-serif;
+  }
+  
+  .search-box {
+    margin-bottom: 20px;
+  }
+  
+  .search-box input {
+    padding: 10px;
+    font-size: 16px;
+    width: 70%;
+    margin-right: 10px;
+  }
+  
+  .search-box button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .result-box {
+    margin-top: 20px;
+  }
+  
+  .result-box p {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
